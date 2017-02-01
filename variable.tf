@@ -9,7 +9,7 @@ variable "aws_region" {
 }
 
 variable "aws_access_key" {
-    default = "AKIAITKLT2GRPB66NVBQ"
+    default = "AKIAJI22ONUXRHCMONBQ"
    # description = "AWS Access Key"
 }
 
